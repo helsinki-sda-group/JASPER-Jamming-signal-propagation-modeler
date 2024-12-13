@@ -2,7 +2,7 @@
 % Author(s):            Zhe Yan
 % Affiliation           University of Helsinki, Finland
 % Last changed date:    2023-5-3
-% Email:                zhe.yan@helinski.fi
+% Email:                zheyan@seu.edu.cn
 
 clear; close all; clc;
 
