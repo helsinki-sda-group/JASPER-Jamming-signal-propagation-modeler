@@ -20,4 +20,5 @@ Cite the aticles:
   address={Baltimore, Maryland},
   month={Septemper},
   year={2024}
-  }
+  doi={10.33012/2024.19767}
+}
