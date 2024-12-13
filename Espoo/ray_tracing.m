@@ -3,7 +3,7 @@
 % Author(s):            Zhe Yan
 % Affiliation           University of Helsinki, Finland
 % Last changed date:    2023-10-17
-% Email:                zhe.yan@helinski.fi
+% Email:                zheyan@seu.edu.cn
 % v. Matlab 2023a
 
 clear; close all force; clc;
