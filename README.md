@@ -10,6 +10,7 @@ Steps:
 Published in:
 
 [1] Zhe Yan, Laura Ruotsalainen, "GNSS Jammer Localization in Urban Areas Based on Prediction/optimization and Ray-tracing," GPS Solutions, 29(1), 47, January 2025. https://doi.org/10.1007/s10291-024-01787-4
+
 [2] Zhe Yan, Outi Savolainen, Xinhua Tang, Laura Ruotsalainen, "Simultaneous Classification and Searching Method for Jammer Localization in Urban Areas Using KNN-GSA and Ray-Tracing," Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024), Baltimore, Maryland, September 2024, pp. 3361-3374. https://doi.org/10.33012/2024.19767
 
 Cite the aticles:
